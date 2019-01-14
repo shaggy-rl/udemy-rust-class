@@ -1,0 +1,5 @@
+[package]
+name = "hello-world"
+version = "0.0.1"
+authors = ["Alexander Shagla-McKotch <shagal@gmail.com>"]
+description = "First Rust program that displays 'Hello World'"
